@@ -51,6 +51,7 @@
 		55DD91BA2AC4A5B400F54CCC /* DataManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DD91A62ABFDBB300F54CCC /* DataManagerTests.swift */; };
 		55DD91BD2AC4BD8300F54CCC /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DD91BB2AC4AF6100F54CCC /* DataManager.swift */; };
 		55DD91BE2AC4C08500F54CCC /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DD91BB2AC4AF6100F54CCC /* DataManager.swift */; };
+		55DD91C02AC6904000F54CCC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 55DD91BF2AC6904000F54CCC /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +78,7 @@
 		55DD91B02AC4A3FC00F54CCC /* tsl_wall_appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tsl_wall_appTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		55DD91B22AC4A3FC00F54CCC /* tsl_wall_appTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tsl_wall_appTests.swift; sourceTree = "<group>"; };
 		55DD91BB2AC4AF6100F54CCC /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		55DD91BF2AC6904000F54CCC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 				55DD91552ABE2AFA00F54CCC /* Assets.xcassets */,
 				55DD916A2ABE596A00F54CCC /* GoogleService-Info.plist */,
 				55DD91572ABE2AFA00F54CCC /* Preview Content */,
+				55DD91BF2AC6904000F54CCC /* README.md */,
 			);
 			path = tsl_wall_app;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 			files = (
 				55DD91592ABE2AFA00F54CCC /* Preview Assets.xcassets in Resources */,
 				55DD916B2ABE596A00F54CCC /* GoogleService-Info.plist in Resources */,
+				55DD91C02AC6904000F54CCC /* README.md in Resources */,
 				55DD91562ABE2AFA00F54CCC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
